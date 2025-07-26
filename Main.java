@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main
-
+//This shouldn't be nothing serious, just a basic Java calculator
 {
     public static void Greeting()
     {
